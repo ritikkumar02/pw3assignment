@@ -1,0 +1,59 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image: url(/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    display:flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    /* font-weight: bold; */
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+}
+span{
+    margin-right: 20px;
+    /* padding-left: 222px; */
+}
+.brand-name{
+    padding-inline-start: 25px;
+   
+}
+.last{
+    padding-inline-end: 25px;
+}
+.span{
+    padding-right: 35%;
+   
+}
+button{
+    background-color:rgb(196, 21, 205);
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    color: white;
+    padding: 8px 22px;
+}
+.main{
+    /* justify-content: center; */
+    padding-top: 8%;
+   
+   
+    text-align: center;
+    
+}
+h1{
+    color: white;
+    font-size: 65px;
+}
+p{
+    color: white;
+    font-size: 25px;
+}
